@@ -40,7 +40,7 @@ house-price-prediction-app/
 ### 1. 📦 Install Dependencies
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone <https://github.com/digvijaybhonsle/house-price-prediction-app.git>
 
 # Navigate to project directory
 cd house-price-prediction-app
